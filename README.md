@@ -5,6 +5,33 @@ centre - combining operational forecasting (call volume, wait times, foot
 traffic, satisfaction) with an automated lead search & outreach tracking
 module.
 
+
+## Screenshots
+
+## Overview tab
+
+![Overview tab](assests/a1.png)
+
+![Overview tab](assests/a2.png)
+
+## Forecast tab
+
+![Forecast tab](assests/a3.png)
+
+## Recommendation tab
+
+![Recommendation tab](assests/a4.png)
+
+## Outreach Tracker tab
+
+![Outreach tracker tab](assests/a5.png)
+
+![Outreach tracker tab](assests/a6.png)
+
+![Outreach tracker tab](assests/a7.png)
+
+![Outreach tracker tab](assests/a8.png)
+
 Built with **Python, Streamlit, scikit-learn, and Plotly.**
 
 ---
@@ -99,18 +126,6 @@ streamlit run dashboard/app.py
 
 The app opens automatically at `http://localhost:8501`.
 
----
-
-## Screenshots
-
-![Overview tab](assets/a1.png)
-![Overview tab](assets/a2.png)
-![Forecast tab](assets/a3.png)
-![Recommendation tab](assets/a4.png)
-![Outreach tracker tab](assets/a5.png)
-![Outreach tracker tab](assets/a6.png)
-![Outreach tracker tab](assets/a7.png)
-![Outreach tracker tab](assets/a8.png)
 
 ---
 
