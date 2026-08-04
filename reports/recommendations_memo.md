@@ -1,14 +1,13 @@
 # Recommendations Memo
-**Project:** Predictive Dashboard — Bank Customer Service Centre
-**Prepared by:** SafeX Solutions — AI & ML Department, Week 4 Sprint
-**Date:** Week 4
+**Project:** Predictive Dashboard Customer Service Centre
+**Prepared by:** AI & ML Department, Week 4 Sprint
 
 ---
 
 ## Summary
 
-Using 18 months of (simulated) daily operational data — call volume, wait
-times, branch foot traffic, satisfaction (CSAT), and social engagement — we
+Using 18 months of (simulated) daily operational data call volume, wait
+times, branch foot traffic, satisfaction (CSAT), and social engagement we
 built a simple, explainable forecasting model (linear regression + moving
 average) to project the next 30 days of activity. Three recommendations
 follow directly from that forecast.
@@ -34,7 +33,3 @@ dip (rather than reacting after engagement has already dropped) should
 smooth engagement and reduce the size of the troughs.
 
 ---
-
-*Note: this memo is generated from simulated sample data for demonstration
-purposes. Recommendations should be re-validated once real operational
-data is connected.*
